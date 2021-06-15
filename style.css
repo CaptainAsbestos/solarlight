@@ -2,14 +2,14 @@
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #2aa198;
+    color: #e95420;
     font-size: 80px;
     text-shadow: 5px 5px 5px #00000000;
 }
 
 #box1 {
-    background-color: #073642;
-    color: #839496;
+    background-color: #772953;
+    color: #aea79f;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -22,8 +22,8 @@
 }
 
 #box2 {
-    background-color: #073642;
-    color: #839496;
+    background-color: #772953;
+    color: #aea79f;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -36,8 +36,8 @@
 }
 
 #box3 {
-    background-color: #073642;
-    color: #839596;
+    background-color: #772953;
+    color: #aea79f;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -50,7 +50,7 @@
 }
 
 body {
-    background-color: #002b36;
+    background-color: #2c001e;
     margin: 0;
     align-items:  center;
     vertical-align: middle;
@@ -74,21 +74,21 @@ a {
 
 #box1:hover {
     transform: scale(1.0);
-    color: #b58900;
+    color: #60001c;
     box-shadow: 0px 0px 5px 5px #b5890088;
     transition: 0.2s;
 }
 
 #box2:hover {
     transform: scale(1.0);
-    color: #268bd2;
+    color: #993300;
     box-shadow: 0px 0px 5px 5px #268bd288;
     transition: 0.2s;
 }
 
 #box3:hover {
     transform: scale(1.0);
-    color: #cb4b16;
+    color: #06989a;
     box-shadow: 0px 0px 5px 5px #cb4b1688;
     transition: 0.2s;
 }
@@ -96,7 +96,7 @@ a {
 #searchbar:hover {
     width: 70%;
     max-width: 925px;
-    box-shadow: 0px 0px 5px 5px #85990088;
+    box-shadow: 0px 0px 5px 5px #c40021;
     transition: 0.2s;
     transition-delay: 0.0s;
     color: #859900
@@ -105,9 +105,9 @@ a {
 #searchbar:focus {
     width: 70%;
     max-width: 925px;
-    border: 5px solid #586e7500;
+    border: 5px solid #ad7fa800;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 5px #85990088;
+    box-shadow: 0px 0px 5px 5px #6001c88;
     color: #859900;
 }
 
@@ -116,8 +116,8 @@ a {
     height: 45px;
     max-width: 925px;
     border: 5px solid #268bd200;
-    background-color: #073642;
-    color: #859900;
+    background-color: #99300a;
+    color: #e95420;
     font-family: inherit;
     font-size: 18px;
     margin: 10px;
@@ -135,7 +135,8 @@ a {
     top:50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-family: Hack;
+    font-family: Ubuntu;
+    font-stretch: Condensed;
 }
 
 
