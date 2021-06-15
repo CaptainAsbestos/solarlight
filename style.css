@@ -4,7 +4,6 @@
     font-weight: bold;
     color: #e95420;
     font-size: 80px;
-    font-family: Courier;
     text-shadow: 5px 5px 5px #00000000;
 }
 
@@ -136,7 +135,7 @@ a {
     top:50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-family: Ubuntu Condensed;
+    font-family: Courier;
 }
 
 
