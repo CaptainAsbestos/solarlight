@@ -136,8 +136,7 @@ a {
     top:50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    font-family: Ubuntu;
-    font-stretch: Condensed;
+    font-family: Ubuntu Condensed;
 }
 
 
