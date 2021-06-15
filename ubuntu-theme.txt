@@ -1,0 +1,71 @@
+orange 	#e95420
+90%	#eb6536
+50%	#f4aa90
+
+light aubergine	#772164 
+90% 		#84377d
+50%		#BB90b7
+
+mid aub.	#532750
+90%		#6e3c61
+50%		#ae93a7
+
+dark aub. 	#2c001e
+90%		#411934
+50%		#957f8e
+
+canonical aub	#772953
+90% 		#843e64
+50%		#bb94a9
+
+warm grey 	#aea79f
+90%		#b6afa8
+50%		#d6d3cf
+cool grey	#333333
+text grey	#111111
+
+  "black": "#2E3436",
+  "blue": "#3465A4",
+  "cyan": "#06989A",
+  "green": "#4E9A06",
+  "purple": "#75507B",
+  "red": "#AE5E5E",
+  "white": "#B5BBAE",
+  "yellow": "#8A7000",
+  "brightBlack": "#696B67",
+  "brightBlue": "#729FCF",
+  "brightCyan": "#2EC3C3",
+  "brightGreen": "#79C32E",
+  "brightPurple": "#AD7FA8",
+  "brightRed": "#F49797",
+  "brightWhite": "#EEEEEE",
+  "brightYellow": "#C4A000"
+
+
+// Solarized color scheme
+// http://ethanschoonover.com/solarized#the-values
+
+// Background/Foreground Tones
+@base03: #300a24;
+@base02: #60001c;
+
+// Content Tones
+@base01: #b2763b;
+@base00: #333333;
+@base0: #aea79f;
+@base1: #d3d7cf;
+
+// Background/Foreground Tones
+@base2: #eee8d5;
+@base3: #fdf6e3;
+
+// Accent Colors
+@yellow: #c4a000;
+@orange: #e95420;
+@red: #c40021;
+@magenta: #ad74a8;
+@violet: #772953;
+// @blue: #729fcf;
+@blue: #3465a4;
+@cyan: #06989a;
+@green: #4e9a06;
