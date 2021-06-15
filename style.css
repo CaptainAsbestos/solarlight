@@ -10,7 +10,7 @@
 }
 
 #box1 {
-    background-color: #60001c;
+    background-color: #772953;
     color: #300a24;
     margin: 10px;
     padding-top: 15px;
@@ -24,7 +24,7 @@
 }
 
 #box2 {
-    background-color: #60001c;
+    background-color: #772953;
     color: #300a24;
     margin: 10px;
     padding-top: 15px;
@@ -38,7 +38,7 @@
 }
 
 #box3 {
-    background-color: #60001c;
+    background-color: #772953;
     color: #300a24;
     margin: 10px;
     padding-top: 15px;
@@ -96,7 +96,7 @@ a {
 }
 
 #searchbar:hover {
-    width: 70%;
+    width: 100%;
     max-width: 925px;
     box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
@@ -107,7 +107,7 @@ a {
 }
 
 #searchbar:focus {
-    width: 70%;
+    width: 100%;
     max-width: 925px;
     border: 0px solid #ad7fa800;
     border-radius: 5px;
@@ -118,11 +118,11 @@ a {
 }
 
 #searchbar {
-    width: 100%;
+    width: 70%;
     height: 45px;
     max-width: 925px;
     border: 0px solid #00000000;
-    background-color: #532750;
+    background-color: #772953;
     color: #aea79f;
     font-family: inherit;
     font-size: 18px;
