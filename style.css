@@ -75,41 +75,45 @@ a {
 
 #box1:hover {
     transform: scale(1.0);
-    color: #60001c;
-    box-shadow: 0px 0px 5px 5px #b5890088;
+    color: #e95420;
+    box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
 
 #box2:hover {
     transform: scale(1.0);
-    color: #993300;
-    box-shadow: 0px 0px 5px 5px #268bd288;
+    color: #e95420;
+    box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
 
 #box3:hover {
     transform: scale(1.0);
-    color: #06989a;
-    box-shadow: 0px 0px 5px 5px #cb4b1688;
+    color: #e95420;
+    box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
 
 #searchbar:hover {
     width: 70%;
     max-width: 925px;
-    box-shadow: 0px 0px 5px 5px #c40021;
+    box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
     transition-delay: 0.0s;
-    color: #859900
+    color: #e95420;
+    font-family: Ubuntu Mono;
+
 }
 
 #searchbar:focus {
     width: 70%;
     max-width: 925px;
-    border: 5px solid #ad7fa800;
+    border: 0px solid #ad7fa800;
     border-radius: 5px;
     box-shadow: 0px 0px 5px 5px #6001c88;
-    color: #859900;
+    color: #e95420;
+    font-family: Ubuntu Mono;
+
 }
 
 #searchbar {
@@ -117,8 +121,8 @@ a {
     height: 45px;
     max-width: 925px;
     border: 5px solid #268bd200;
-    background-color: #99300a;
-    color: #e95420;
+    background-color: #772953;
+    color: #333333;
     font-family: inherit;
     font-size: 18px;
     margin: 10px;
@@ -127,6 +131,7 @@ a {
     transition: width 0.5s;
     transition-delay: 0.5s;
     text-align: center;
+    font-family: Ubuntu Mono;
 }
 
 .site {
