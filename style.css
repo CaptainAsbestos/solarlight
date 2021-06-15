@@ -11,7 +11,7 @@
 
 #box1 {
     background-color: #60001c;
-    color: #aea79f;
+    color: #300a24;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -24,8 +24,8 @@
 }
 
 #box2 {
-    background-color: #772953;
-    color: #aea79f;
+    background-color: #60001c;
+    color: #300a24;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -38,8 +38,8 @@
 }
 
 #box3 {
-    background-color: #772953;
-    color: #60001c;
+    background-color: #6001c;
+    color: #300a24;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
