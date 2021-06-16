@@ -75,3 +75,6 @@ ruby-solar-dark #360010
 ruby-solar-dark2 #420013
 " purple 360b2a
 " purple2 420d33
+
+this one #360025
+         #42002d
