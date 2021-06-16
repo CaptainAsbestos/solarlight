@@ -69,3 +69,9 @@ text grey	#111111
 @blue: #3465a4;
 @cyan: #06989a;
 @green: #4e9a06;
+
+atom-purp #23071b
+ruby-solar-dark #360010
+ruby-solar-dark2 #420013
+" purple 360b2a
+" purple2 420d33
