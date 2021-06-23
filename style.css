@@ -2,7 +2,7 @@
     align-items:  center;
     vertical-align: middle;
     font-weight: bold;
-    color: #772953;
+    color: #2aa198;
     font-size: 80px;
     font-family: Ubuntu Mono;
     font-weight: bold;
@@ -10,8 +10,8 @@
 }
 
 #box1 {
-    background-color: #420d33;
-    color: #772953;
+    background-color: #fdf6e3;
+    color: #657b83;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -24,8 +24,8 @@
 }
 
 #box2 {
-    background-color: #420d33;
-    color: #772953;
+    background-color: #fdf6e3;
+    color: #657b83;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -38,8 +38,8 @@
 }
 
 #box3 {
-    background-color: #420013;
-    color: #772953;
+    background-color: #fdf6e3;
+    color: #657b83;
     margin: 10px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -52,7 +52,7 @@
 }
 
 body {
-    background-color: #2c001e;
+    background-color: #eee8d5;
     margin: 0;
     align-items:  center;
     vertical-align: middle;
@@ -84,21 +84,21 @@ a {
 
 #box1:hover {
     transform: scale(1.0);
-    color: #e95420;
+    color: #b58900;
     box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
 
 #box2:hover {
     transform: scale(1.0);
-    color: #e95420;
+    color: #cb4b16;
     box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
 
 #box3:hover {
     transform: scale(1.0);
-    color: #e95420;
+    color: #268bd2;
     box-shadow: 0px 0px 5px 5px #60001c88;
     transition: 0.2s;
 }
@@ -106,10 +106,10 @@ a {
 #searchbar:hover {
     width: 100%;
     max-width: 925px;
-    box-shadow: 0px 0px 5px 5px #60001c88;
+    box-shadow: 0px 0px 5px 5px #85990088;
     transition: 0.2s;
     transition-delay: 0.0s;
-    color: #e95420;
+    color: #859900;
     font-family: Ubuntu Mono;
     font-weight: bold;
 }
@@ -117,10 +117,10 @@ a {
 #searchbar:focus {
     width: 100%;
     max-width: 925px;
-    border: 0px solid #ad7fa800;
+    border: 0px solid #85990000;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 5px #6001c88;
-    color: #e95420;
+    box-shadow: 0px 0px 5px 5px #85990088;
+    color: #859900;
     font-family: Ubuntu Mono;
     font-weight: bold;
 }
@@ -130,8 +130,8 @@ a {
     height: 45px;
     max-width: 925px;
     border: 0px solid #00000000;
-    background-color: #772953;
-    color: #2c001e;
+    background-color: #fdf6e3;
+    color: #2aa197;
     font-family: inherit;
     font-size: 18px;
     margin: 10px;
